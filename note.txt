@@ -1,0 +1,5 @@
+Requeriments install
+python
+
+install library
+pip install flask
